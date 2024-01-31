@@ -3,3 +3,6 @@
 @tailwind utilities;
 
 
+::selection {
+    color: rgb(210, 159, 41);
+}
