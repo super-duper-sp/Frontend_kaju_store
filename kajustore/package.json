@@ -1,7 +1,7 @@
 {
   "name": "kajustore",
   "version": "0.1.0",
-  "proxy": "http://localhost:3002",
+  "proxy": "https://backend-kajustore.vercel.app",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^2.1.1",
